@@ -15,3 +15,7 @@
 - The ball can bounce from the left and right side of the screen.
 - To keep the game going ball should always hit the rod.
 - Just go and play "[https://so6rq9.csb.app/](https://so6rq9.csb.app/)".
+
+## <p>Preview</p>
+![Screenshot 2024-01-28 184931](https://github.com/Os-7/ping-pong-ball/assets/96040535/08def686-dd04-4f20-883e-d8af7a58c93e)
+
